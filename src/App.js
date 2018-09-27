@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import './App.css';
 
-// Créer avec create-react-app pour la simplicité de configuration
-// Réaliser en 30 min
+// Crée avec create-react-app pour la simplicité de configuration
+// Réalisé en 30 min
 
 class App extends Component {
 
